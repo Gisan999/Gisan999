@@ -42,6 +42,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,firebase,tailwind,)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gisan999&show_icons=true&locale=en" alt="gisan999" /></p> -->
 
